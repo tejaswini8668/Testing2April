@@ -15,7 +15,7 @@ public class Kanchan {
 			driver.findElement(By.xpath("//input[@type='text']")).sendKeys("tejaswinifulzele8668@gmail.com");
 			Thread.sleep(2000);
 			driver.findElement(By.xpath("//input[@type='password']")).sendKeys("9860345688");
-			Thread.sleep(2000);
+			Thread.sleep(3000);
 			driver.findElement(By.xpath("//button[@value='1']")).click();
 			
 		}
